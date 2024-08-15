@@ -1,0 +1,9 @@
+## Interface: 110000, 110002
+## Title: CG-|cffff8000AutoMailer|r
+## Notes: Automatically mails all items to a specific character set by the user.
+## Author: Nyrk-Mal'Ganis
+## Version: 1.1
+## SavedVariables: CGAutoMailerDB
+## X-Curse-Project-ID: 1084124
+
+cg-automailer.lua
