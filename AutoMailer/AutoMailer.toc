@@ -1,7 +1,0 @@
-## Interface: 110000
-## Title: Auto Mailer
-## Notes: Automatically mails all items to a specific character set by the user.
-## Author: Nyrk-Mal'Ganis
-## Version: 1.0
-
-AutoMailer.lua
