@@ -1,8 +1,8 @@
-## Interface: 110000, 110002
+## Interface: 110000, 110005
 ## Title: CG-|cffff8000AutoMailer|r
-## Notes: Automatically mails all items to a specific character set by the user.
+## Notes: Automatically mails all items to a specific character set by the user. With an ignore item list. This will allow you to quickly mail all items from your bags to your banker.
 ## Author: Nyrk-Mal'Ganis
-## Version: 1.1
+## Version: 1.2
 ## SavedVariables: CGAutoMailerDB
 ## X-Curse-Project-ID: 1084124
 
